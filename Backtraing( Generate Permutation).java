@@ -26,5 +26,4 @@ public class GeneratePermutation {
     ArrayList<Integer> ans = new ArrayList<Integer>();
     helper(arr,ans);
     }
-
 }
