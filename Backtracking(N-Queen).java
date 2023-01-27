@@ -72,3 +72,4 @@ return false;
         placeQueens(board, 0);
     }
 }
+
